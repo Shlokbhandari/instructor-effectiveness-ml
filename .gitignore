@@ -34,3 +34,6 @@ Thumbs.db
 *.pkl
 *.joblib
 *.h5
+
+# Generated EDA plots (reproducible from notebook)
+eda_*.png
