@@ -22,6 +22,6 @@ Files:
 - instructor_effectiveness.ipynb — main notebook with all analysis, modeling, and interpretation
 - data.csv — the dataset (2000 batch-level records)
 
-👨‍💻 Author
-Shlok Bhandari
+👨‍💻 Author<br>
+Shlok Bhandari<br>
 B.E. Artificial Intelligence & Data Science
